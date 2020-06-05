@@ -17,5 +17,3 @@ What's New
 * <span style="color:red">New!!</span> Two papers submitted to EMNLP'2020!!
 * <span style="color:red">New!!</span> Our abstract paper "Comprehensive Named Entity Recognition on CORD-19 with Distant or Weak Supervision" is accepted as **oral and poster** to ISMB'2020!!
 * I am honored to receive [John R. Pasta Outstanding Undergraduate Award](https://cs.illinois.edu/about-us/awards/undergraduate-scholarships-awards/john-r-pasta-outstanding-undergraduate-award) from Department of Computer Science, University of Illinois at Urbana-Champaign.
-<!-- * <span style="color:red">New!!</span> Received a Microsoft-Mila collaboration grant on "Towards Combining Statistical Relational Learning and Graph Neural Networks for Reasoning". Thanks Microsoft!
-* <span style="color:red">New!!</span> Received a Collaborative Research and Development Grant on "Intelligent Design through Graph Generation with Deep Generative Models and Reinforcement Learning" from National Research Council Canada (NRC). Thanks NRC! -->
