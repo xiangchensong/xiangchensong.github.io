@@ -30,13 +30,6 @@ Work experience
   * University of Illinois at Urbana-Champaign
   * Duties included: COVID-19 Biotext study
   * Supervisor: Professor Jiawei Han
-  
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 
 Teaching
 ======
