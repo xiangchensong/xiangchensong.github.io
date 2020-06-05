@@ -83,20 +83,24 @@ analytics:
 # Site Author
 author:
   name             : "Xiangchen Song"
-  avatar           : "profile.png"
-  bio              : "CS&Math Junior Student"
+  avatar           : "xiangchen.png"
+  bio              : |
+    Senior CS&Math, <br>
+    Undergraduate Researcher <br>
+    Computer Science <br>
+    University of Illinois at Urbana-Champaign (UIUC)
   location         : "Champaign, IL, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=foR8BIoAAAAJ"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Xiangchen_Song"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "xiangchen.song.97"
   foursquare       :
   github           : "xiangchensong"
   google_plus      :
@@ -111,7 +115,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "alfredxs22"
   vine             :
   weibo            :
   xing             :
