@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xiangchen Song's Homepage"
+title                    : "Xiangchen Song ( 宋祥辰 )"
 title_separator          : "-"
 name                     : &name "Xiangchen Song"
 description              : &description "CS & Math, Senior"
