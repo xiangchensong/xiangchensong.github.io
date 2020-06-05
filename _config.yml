@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xiangchen Song ( 宋祥辰 )"
 title_separator          : "-"
 name                     : &name "Xiangchen Song"
-description              : &description "CS & Math"
+description              : &description "Computer Science & Mathematics"
 description              : &description "Senior Student"
 description              : &description "Data Mining Group (DMG)"
 description              : &description "University of Illinois at Urbana-Champaign (UIUC)"
@@ -86,7 +86,7 @@ author:
   name             : "Xiangchen Song"
   avatar           : "xiangchen.jpeg"
   bio              : |
-    CS&Math, <br>
+    Computer Science & Mathematics, <br>
     Senior Student, <br>
     Undergraduate Researcher <br>
     Computer Science <br>
