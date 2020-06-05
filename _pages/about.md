@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior undergraduate student in Computer Science at [University of Illinois at Urbana-Champaign](https://illinois.edu/). I am fortunated to be advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu/)@[UIUC](https://illinois.edu/) and Prof. [Chao Zhang](http://chaozhang.org/)@[Georgia Tech](https://www.gatech.edu/). For more information, please check my [CV](/files/cv.pdf).
+I am a senior undergraduate student in Computer Science at [University of Illinois at Urbana-Champaign](https://illinois.edu/). I am fortunated to be advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu/)@[UIUC](https://illinois.edu/) and Prof. [Chao Zhang](http://chaozhang.org/)@[Georgia Tech](https://www.gatech.edu/).
 
 My current research interests are **Graph Mining** and **Text Mining** with an emphasis on automated knowledge construction. My explorations lay in the intersection of Data Mining, Machine Learning and Natural Language Processing. 
 
