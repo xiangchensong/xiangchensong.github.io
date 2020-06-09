@@ -12,6 +12,8 @@ I am a senior undergraduate student in Computer Science at [University of Illino
 
 My current research interests are **Graph Mining** and **Text Mining** with an emphasis on automated knowledge construction. My explorations lay in the intersection of Data Mining, Machine Learning and Natural Language Processing. 
 
+For more information, please check my [CV](/files/New_CV.pdf).
+
 What's New
 ======
 * <span style="color:red">New!!</span> Two papers submitted to EMNLP'2020!!

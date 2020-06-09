@@ -39,4 +39,4 @@ Teaching
   
 Link
 ======
-[CV](/files/New_CV.pdf)
+Please refer to my [CV](/files/New_CV.pdf) for detailed descriptions.
