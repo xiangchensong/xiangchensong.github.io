@@ -14,6 +14,10 @@ My current research interests are **Graph Mining** and **Text Mining** with an e
 
 For more information, please check my [CV](/files/New_CV.pdf).
 
+## My Schedule
+
+You can find my schedule [here](https://calendar.google.com/calendar/embed?src=jplii0braghsgb925lb6jbb75c%40group.calendar.google.com&ctz=America%2FChicago). The "Week" view will present you the details of slots.
+
 What's New
 ======
 * <span style="color:red">New!!</span> Two papers submitted to EMNLP'2020!!
