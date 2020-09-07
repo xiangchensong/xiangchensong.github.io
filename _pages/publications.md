@@ -4,7 +4,7 @@ author_profile: true
 permalink: /publications/
 ---
 
-[Google Scholar](https://scholar.google.com/citations?user=foR8BIoAAAAJ&hl=en)    [DBLP](https://dblp.uni-trier.de/pers/hd/s/Song:Xiangchen)
+[Google Scholar](https://scholar.google.com/citations?user=foR8BIoAAAAJ&hl=en)    [DBLP](https://dblp.uni-trier.de/pers/hd/s/Song:Xiangchen)    [Semantic Scholar](https://www.semanticscholar.org/author/Xiangchen-Song/19214393)
 * Xuan Wang, **Xiangchen Song**, Bangzheng Li, Yingjun Guan and Jiawei Han, “Comprehensive Named Entity Recognition on CORD-19 with Distant or Weak Supervision”, 2020 Intelligent Systems for Molecular Biology (ISMB’20), Abstracts (oral and poster), July 2020
 * **Xiangchen Song**<sup>*</sup>, Di Jin<sup>*</sup>, Zhizhi Yu, Ziyang Liu, Heling Zhang, Zhaomeng Cheng, Jiawei Han. “A New GCN Architecture via Bidirectional Convolution of Topology and Features on Text-Rich Networks”. (In Submission)
 * Jieyu Zhang, **Xiangchen Song**, Ying Zeng, Jiaze chen, Yuning Mao, Jiaming Shen, Jiawei Han. “Taxonomy Enlargement via Triplet Matching Network”. (In Submission)
