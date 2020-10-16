@@ -20,8 +20,9 @@ You can find my schedule [here](https://calendar.google.com/calendar/embed?src=j
 
 What's New
 ======
+* <span style="color:red">New!!</span> Our paper "BiTe-GCN: A New GCN Architecture via Bidirectional Convolution of Topology and Features on Text-Rich Networks" is accepted to WSDM'2021!!
 * <span style="color:red">New!!</span> I am honored to be selected as one of the department's nominations for the [2020-2021 CRA Outstanding Undergraduate Researchers Award](https://cra.org/crae/awards/cra-outstanding-undergraduate-researchers).
-* <span style="color:red">New!!</span> One paper submitted to AAAI'2021!!
+* One paper submitted to AAAI'2021!!
 * One paper submitted to WSDM'2021!!
 * Two papers submitted to EMNLP'2020!!
 * Our abstract paper "Comprehensive Named Entity Recognition on CORD-19 with Distant or Weak Supervision" is accepted as **oral and poster** to ISMB'2020!!
