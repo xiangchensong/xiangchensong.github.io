@@ -1,7 +1,7 @@
 ---
 title: "Publications"
-author_profile: true
 permalink: /publications/
+author_profile: true
 ---
 
 [Google Scholar](https://scholar.google.com/citations?user=foR8BIoAAAAJ&hl=en)    [DBLP](https://dblp.uni-trier.de/pers/hd/s/Song:Xiangchen)    [Semantic Scholar](https://www.semanticscholar.org/author/Xiangchen-Song/19214393)
@@ -14,5 +14,3 @@ permalink: /publications/
 * **Xiangchen Song**, Jieyu Zhang, Jiaming Shen, Jiawei Han and Chao Zhang, “Taxonomy Enlargement via Reinforcement Learning based Matching Network”, In preparation.
 * **Xiangchen Song**, Sha Li, Bangzheng Li, Jieyu Zhang, Jiawei Han and Hanghang Tong, “Expert Finding via Subgraph Similarity Search on HINs”, In preparation.
 * Sha Li<sup>*</sup>, **Xiangchen Song**<sup>*</sup>, Jieyu Zhang, Jiawei Han and Heng Ji, “Unsupervised Role Discovery”, In preparation.
-
-<!-- <span style="color:red">New!!</span>  -->
