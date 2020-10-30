@@ -6,7 +6,7 @@ author_profile: true
 
 [Google Scholar](https://scholar.google.com/citations?user=foR8BIoAAAAJ&hl=en)    [DBLP](https://dblp.uni-trier.de/pers/hd/s/Song:Xiangchen)    [Semantic Scholar](https://www.semanticscholar.org/author/Xiangchen-Song/19214393)
 
-\* denotes equal contribution.
+(\* denotes equal contribution.)
 
 Graph Mining
 ---
