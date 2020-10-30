@@ -20,7 +20,7 @@ Text Mining
 * **Xiangchen Song**, Jiaming Shen, Jiawei Han. TaxoSort: Emerging Concept Sort in Taxonomy Expansion”. (Preprint)
 * Sha Li<sup>*</sup>, **Xiangchen Song**<sup>*</sup>, Jieyu Zhang, Jiawei Han and Heng Ji, “Unsupervised Role Discovery”.(Preprint)
 
-COVID-19 Literature
+Biomedical Application
 ---
 * Xuan Wang, **Xiangchen Song**, Bangzheng Li, Yingjun Guan and Jiawei Han, “Fine-Grained Named Entity Recognition with Distant Supervision in COVID-19 Literature”, IEEE International Conference on Bioinformatics and Biomedicine (**BIBM**) 2020, Short, December, 2020
 * Xuan Wang, **Xiangchen Song**, Bangzheng Li, Yingjun Guan and Jiawei Han, “Comprehensive Named Entity Recognition on CORD-19 with Distant or Weak Supervision”, 2020 Intelligent Systems for Molecular Biology (**ISMB**), Abstracts (oral and poster), July 2020
