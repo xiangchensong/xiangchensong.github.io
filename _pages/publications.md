@@ -5,6 +5,7 @@ author_profile: true
 ---
 
 [Google Scholar](https://scholar.google.com/citations?user=foR8BIoAAAAJ&hl=en)    [DBLP](https://dblp.uni-trier.de/pers/hd/s/Song:Xiangchen)    [Semantic Scholar](https://www.semanticscholar.org/author/Xiangchen-Song/19214393)
+
 ## Graph Mining
 * Di Jin<sup>*</sup>, **Xiangchen Song**<sup>*</sup>, Zhizhi Yu, Ziyang Liu, Heling Zhang, Zhaomeng Cheng, Jiawei Han. “BiTe-GCN: A New GCN Architecture via Bidirectional Convolution of Topology and Features on Text-Rich Networks”. The 14th ACM International Conference on Web Search and Data Mining (**WSDM**), March, 2021
 * **Xiangchen Song**, Sha Li, Bangzheng Li, Jieyu Zhang, Jiawei Han and Hanghang Tong, “Expert Finding via Subgraph Similarity Search on HINs”, (Preprint).
