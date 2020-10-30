@@ -22,7 +22,7 @@ Text Mining
 
 Biomedical Application
 ---
-* Xuan Wang, **Xiangchen Song**, Bangzheng Li, Yingjun Guan and Jiawei Han, “Fine-Grained Named Entity Recognition with Distant Supervision in COVID-19 Literature”, IEEE International Conference on Bioinformatics and Biomedicine (**BIBM**) 2020, Short, December, 2020
+* Xuan Wang, **Xiangchen Song**, Bangzheng Li, Yingjun Guan and Jiawei Han, “Fine-Grained Named Entity Recognition with Distant Supervision in COVID-19 Literature”, IEEE International Conference on Bioinformatics and Biomedicine (**BIBM**) 2020, December, 2020
 * Xuan Wang, **Xiangchen Song**, Bangzheng Li, Yingjun Guan and Jiawei Han, “Comprehensive Named Entity Recognition on CORD-19 with Distant or Weak Supervision”, 2020 Intelligent Systems for Molecular Biology (**ISMB**), Abstracts (oral and poster), July 2020
 * Qingyun Wang, Manling Li, Xuan Wang, Nikolaus Parulian, Guangxing Han, Jiawei Ma, Jingxuan Tu, Ying Lin, Haoran Zhang, Weili Liu, Aabhas Chauhan, Yingjun Guan, Bangzheng Li, Ruisong Li, **Xiangchen Song**, Heng Ji, Jiawei Han, Shih-Fu Chang, James Pustejovsky, David Liem, Ahmed Elsayed, Martha Palmer, Jasmine Rah, Cynthia Schneider, Boyan A. Onyshkevych, “COVID-19 Literature Knowledge Graph Construction and Drug Repurposing Report Generation”, (Preprint)
 
