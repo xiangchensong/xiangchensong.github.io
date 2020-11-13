@@ -10,12 +10,12 @@ author_profile: true
 
 Graph Mining
 ---
-* Di Jin\*, **Xiangchen Song\***, Zhizhi Yu, Ziyang Liu, Heling Zhang, Zhaomeng Cheng, Jiawei Han. “BiTe-GCN: A New GCN Architecture via Bidirectional Convolution of Topology and Features on Text-Rich Networks”. The 14th ACM International Conference on Web Search and Data Mining (**WSDM**), March, 2021
+* Di Jin\*, **Xiangchen Song\***, Zhizhi Yu, Ziyang Liu, Heling Zhang, Zhaomeng Cheng and Jiawei Han. “BiTe-GCN: A New GCN Architecture via Bidirectional Convolution of Topology and Features on Text-Rich Networks”. The 14th ACM International Conference on Web Search and Data Mining (**WSDM**), March, 2021
 * **Xiangchen Song**, Sha Li, Bangzheng Li, Jieyu Zhang, Jiawei Han and Hanghang Tong, “Expert Finding via Subgraph Similarity Search on HINs”, (Preprint).
 
 Text Mining
 ---
-* Jieyu Zhang, **Xiangchen Song**, Ying Zeng, Jiaze chen, Yuning Mao, Jiaming Shen, Jiawei Han. “Taxonomy Enlargement via Triplet Matching Network”. (In Submission)
+* Jieyu Zhang, **Xiangchen Song**, Ying Zeng, Jiaze chen, Yuning Mao, Jiaming Shen and Lei Li. “Taxonomy Completion via Triplet Matching Network”. (In Submission)
 * **Xiangchen Song**, Jieyu Zhang, Jiaming Shen, Jiawei Han and Chao Zhang, “Taxonomy Enlargement via Reinforcement Learning based Matching Network”. (In preparation)
 * **Xiangchen Song**, Jiaming Shen, Jiawei Han. TaxoSort: Emerging Concept Sort in Taxonomy Expansion”. (Preprint)
 * Sha Li\*, **Xiangchen Song\***, Jieyu Zhang, Jiawei Han and Heng Ji, “Unsupervised Role Discovery”.(Preprint)
