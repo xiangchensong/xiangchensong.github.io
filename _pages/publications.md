@@ -15,7 +15,7 @@ Graph Mining
 
 Text Mining
 ---
-* Jieyu Zhang, **Xiangchen Song**, Ying Zeng, Jiaze chen, Yuning Mao, Jiaming Shen and Lei Li. “Taxonomy Completion via Triplet Matching Network”. (In Submission)
+* Jieyu Zhang, **Xiangchen Song**, Ying Zeng, Jiaze chen, Yuning Mao, Jiaming Shen and Lei Li. “Taxonomy Completion via Triplet Matching Network”. The Thirty-Fifth AAAI Conference on Artificial Intelligence (**AAAI**), February, 2021.
 * **Xiangchen Song**, Jieyu Zhang, Jiaming Shen, Jiawei Han and Chao Zhang, “Taxonomy Enlargement via Reinforcement Learning based Matching Network”. (In preparation)
 * **Xiangchen Song**, Jiaming Shen, Jiawei Han. TaxoSort: Emerging Concept Sort in Taxonomy Expansion”. (Preprint)
 * Sha Li\*, **Xiangchen Song\***, Jieyu Zhang, Jiawei Han and Heng Ji, “Unsupervised Role Discovery”.(Preprint)
