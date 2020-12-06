@@ -10,7 +10,7 @@ redirect_from:
 
 I am a senior undergraduate student in Computer Science at [University of Illinois at Urbana-Champaign](https://illinois.edu/). I am fortunated to be advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu/)@[UIUC](https://illinois.edu/) and Prof. [Chao Zhang](http://chaozhang.org/)@[Georgia Tech](https://www.gatech.edu/). Before that, I spent two years of undergraduate study in Electrical Engineering at [City University of Hong Kong](https://www.cityu.edu.hk/), where I was honored to be advised by Prof. [Lin Dai](http://www.ee.cityu.edu.hk/~lindai/).
 
-My current research interests are **Graph Mining**, **Text Mining**, and **Biomedical Applications** with an emphasis on automated knowledge construction. My explorations lay in the intersection of Data Mining, Machine Learning and Natural Language Processing. 
+My current research interests are **Graph Mining**, **Text Mining**, and **Bioinformatics** with an emphasis on automated knowledge construction. My explorations lay in the intersection of Data Mining, Machine Learning and Natural Language Processing. 
 
 For more information, please check my [CV](/files/CV_Xiangchen_FA20.pdf).
 
