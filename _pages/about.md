@@ -12,7 +12,7 @@ I am a senior undergraduate student in Computer Science at [University of Illino
 
 My current research interests are **Graph Mining**, **Text Mining**, and **Bioinformatics** with an emphasis on automated knowledge construction. My explorations lay in the intersection of Data Mining, Machine Learning and Natural Language Processing. 
 
-For more information, please check my [CV](/files/CV_Xiangchen_FA20.pdf).
+For more information, please check my [CV](/files/CV_PhD.pdf).
 
 <!-- ## My Schedule
 
