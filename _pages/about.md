@@ -20,8 +20,9 @@ You can find my schedule [here](https://calendar.google.com/calendar/embed?src=j
 
 What's New
 ======
+* <span style="color:red">New!!</span> I am honored to received WSDM 2021 Student Travel Award.
 * <span style="color:red">New!!</span> I am honored to be selected as one of the honorable mention for the [2020-2021 CRA Outstanding Undergraduate Researchers Award](https://cra.org/crae/awards/cra-outstanding-undergraduate-researchers).
-* <span style="color:red">New!!</span> Our paper "Taxonomy Completion via Triplet Matching Network" has been accepted to The Thirty-Fifth AAAI Conference on Artificial Intelligence AAAI'2021!!
+* Our paper "Taxonomy Completion via Triplet Matching Network" has been accepted to The Thirty-Fifth AAAI Conference on Artificial Intelligence AAAI'2021!!
 * Our paper "Fine-Grained Named Entity Recognition with Distant Supervision in COVID-19 Literature" has been accepted into IEEE International Conference on Bioinformatics and Biomedicine 2020 (IEEE BIBM'2020)!!
 * Our paper "BiTe-GCN: A New GCN Architecture via Bidirectional Convolution of Topology and Features on Text-Rich Networks" has been accepted into WSDM'2021!!
 * I am honored to be selected as one of the department's nominations for the [2020-2021 CRA Outstanding Undergraduate Researchers Award](https://cra.org/crae/awards/cra-outstanding-undergraduate-researchers).
