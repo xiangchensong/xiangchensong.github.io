@@ -5,15 +5,17 @@ author_profile: true
 ---
 Current Projects
 ---
-* COVID-19 Literature Study
-* Taxonomy Expansion
-* Venue Finding
-* HIN Representation Learning
+* Taxonomy guided GNN on Text Rich Networks
+* Rethinking of Gene and Species -- A Graph Mining Approach
+* Network of Networks (NoN)
 
 Previous Projects
 ---
 * Text Cube ARL & NSCTA Demo
 * Expert Finding
-* Role Discovery
+* Unsupervised Role Discovery
 * Privacy Graph Generation
 * Random Access
+* COVID-19 Literature Study
+* Taxonomy Expansion / Completion
+* Text Rich Networks
