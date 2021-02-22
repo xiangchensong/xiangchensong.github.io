@@ -7,7 +7,6 @@ Current Projects
 ---
 * Taxonomy guided GNN on Text Rich Networks
 * Rethinking of Gene and Species -- A Graph Mining Approach
-* Network of Networks (NoN)
 
 Previous Projects
 ---
