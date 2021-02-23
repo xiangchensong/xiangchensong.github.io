@@ -24,4 +24,4 @@ What's New
 * I am honored to be selected as one of the department's nominations for the [2020-2021 CRA Outstanding Undergraduate Researchers Award](https://cra.org/crae/awards/cra-outstanding-undergraduate-researchers).
 * Our paper "Comprehensive Named Entity Recognition on CORD-19 with Distant or Weak Supervision" has been accepted as **oral and poster** into The 28th International Conference on Intelligent Systems for Molecular Biology (<em>ISMB'2020</em>)!!
 * I am honored to receive [John R. Pasta Outstanding Undergraduate Award](https://cs.illinois.edu/about-us/awards/undergraduate-scholarships-awards/john-r-pasta-outstanding-undergraduate-award) from Department of Computer Science, University of Illinois at Urbana-Champaign.
-<!-- <span style="color:red">New!!</span>
+
