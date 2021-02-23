@@ -24,9 +24,4 @@ What's New
 * I am honored to be selected as one of the department's nominations for the [2020-2021 CRA Outstanding Undergraduate Researchers Award](https://cra.org/crae/awards/cra-outstanding-undergraduate-researchers).
 * Our paper "Comprehensive Named Entity Recognition on CORD-19 with Distant or Weak Supervision" has been accepted as **oral and poster** into The 28th International Conference on Intelligent Systems for Molecular Biology (<em>ISMB'2020</em>)!!
 * I am honored to receive [John R. Pasta Outstanding Undergraduate Award](https://cs.illinois.edu/about-us/awards/undergraduate-scholarships-awards/john-r-pasta-outstanding-undergraduate-award) from Department of Computer Science, University of Illinois at Urbana-Champaign.
-<!-- <span style="color:red">New!!</span>  
-## My Schedule
-
-You can find my schedule [here](https://calendar.google.com/calendar/embed?src=jplii0braghsgb925lb6jbb75c%40group.calendar.google.com&ctz=America%2FChicago). The "Week" view will present you the details of slots.
-<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FChicago&amp;src=eGlhbmdjaGVuc29uZzk3QGdtYWlsLmNvbQ&amp;src=YWRkcmVzc2Jvb2sjY29udGFjdHNAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&amp;src=anBsaWkwYnJhZ2hzZ2I5MjVsYjZqYmI3NWNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23E4C441&amp;color=%23D50000&amp;color=%230e61b9&amp;color=%230B8043&amp;mode=WEEK&amp;showPrint=1&amp;title=Xiangchen&#39;s%20Academic%20Calendar" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
--->
+<!-- <span style="color:red">New!!</span>
