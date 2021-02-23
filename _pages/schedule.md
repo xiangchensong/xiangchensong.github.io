@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Schedule"
+title: "Schedule: Meetings and Appointments"
 permalink: /schedule/
 author_profile: true
 redirect_from:
