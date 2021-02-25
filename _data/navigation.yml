@@ -18,8 +18,8 @@ main:
   - title: "Services"
     url: /services/
 
-  - title: "Schedule"
-    url: /schedule/
+#   - title: "Schedule"
+#     url: /schedule/
 #   - title: "Portfolio"
 #     url: /portfolio/
         
